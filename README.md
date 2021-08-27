@@ -4,15 +4,10 @@ In this course, we are going to focus on two learning objectives:
 
 Understand Deep Convolutional Generative Adversarial Networks (DCGANs and GANs)
 Design and train DCGANs using the Keras API in Python
-By the end of this course, you will be able to build and train a Deep Convolutional GAN (DCGAN) with Keras to generate images of fashionable clothes.
+build and train a Deep Convolutional GAN (DCGAN) with Keras to generate images of fashionable clothes.
 
-Course Structure
-This course is divided into 3 parts:
 
-**Course Overview**: This introductory reading material.
-Generate Synthetic Images with DCGANs in Keras: This is the hands on project that we will work on in Rhyme.
-
-**Graded Quiz**: This is the final assignment that you need to pass in order to finish the course successfully.
+Generate Synthetic Images with DCGANs in Keras
 
 Project Structure
 The hands on project on Generating Synthetic Images with DCGANs in Kerasis divided into following tasks:
